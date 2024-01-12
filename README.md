@@ -4,15 +4,18 @@ Simon Veljkovic
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| 10.11.2023 | 0.0.1 | Ich habe das Projekt begonnen. (User Stories, Testfälle etc.) |
+| 17.11.2023 | 0.1.0 | Ich habe mit der Implementation angefangen. |
+| 24.11.2023 | 0.2.5 | Ich habe das Grundgerüst für die Website gebaut. |
+| 01.12.2023 | 0.5.0 | Ich habe mir passende Fragen überlegt für das Quiz. |
+| 08.12.2023 | 0.7.5 | Ich hatte vor, das Quiz zum funktionieren zu bringen. (hat leider nicht geklappt...) |
+| 15.12.2023 | 1.0.0 | Ich habe meine Website fertig. |
 
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Ich habe eine Quiz-Website erstellt.
 
 ### 1.2 User Stories
 
